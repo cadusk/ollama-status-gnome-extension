@@ -1,0 +1,10 @@
+{
+	"description": "Manages Ollama local service status.",
+	"name": "Ollama Status",
+	"shell-version": [
+		"43"
+	],
+	"url": "https://github.com/cadusk/ollama-status-gnome-extension",
+	"uuid": "ollama-status@cadusk.github.com",
+	"version": "1"
+}

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<schemalist>
+	<schema id="org.gnome.shell.extensions.ollama-status"
+		path="/org/gnome/shell/extensions/ollama-status/">
+
+		<key type="d" name="refresh-interval">
+			<default>1.0</default>
+			<summary>Refresh Interval</summary>
+			<description>Refresh interval in seconds</description>
+		</key>
+
+	</schema>
+</schemalist>
